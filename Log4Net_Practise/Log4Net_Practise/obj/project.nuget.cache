@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "bFSr/X+f0TQZ6fW0TY27B9V/kd19M1whHiskW9RnmTH8rw3QFo7I01UoeRzpFCYbvvn9334UBMbWDz+HNaRjow==",
+  "dgSpecHash": "QBnZIFz4P74F+h1OM3JwEmzAAsCEMKsJxy02B5wpoI0SBjVWXWhiP68AzRYN1AplG9HCK7NJEZXp8O8+Qaxy5A==",
   "success": true,
   "projectFilePath": "D:\\R&D\\Logging\\git\\Log4Net_Practise\\Log4Net_Practise\\Log4Net_Practise.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jagdi\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\jagdi\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
