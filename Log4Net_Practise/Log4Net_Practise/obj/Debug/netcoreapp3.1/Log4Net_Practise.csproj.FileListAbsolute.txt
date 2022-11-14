@@ -1,0 +1,14 @@
+D:\R&D\Logging\git\Log4Net_Practise\Log4Net_Practise\bin\Debug\netcoreapp3.1\Log4Net_Practise.exe
+D:\R&D\Logging\git\Log4Net_Practise\Log4Net_Practise\bin\Debug\netcoreapp3.1\Log4Net_Practise.deps.json
+D:\R&D\Logging\git\Log4Net_Practise\Log4Net_Practise\bin\Debug\netcoreapp3.1\Log4Net_Practise.runtimeconfig.json
+D:\R&D\Logging\git\Log4Net_Practise\Log4Net_Practise\bin\Debug\netcoreapp3.1\Log4Net_Practise.runtimeconfig.dev.json
+D:\R&D\Logging\git\Log4Net_Practise\Log4Net_Practise\bin\Debug\netcoreapp3.1\Log4Net_Practise.dll
+D:\R&D\Logging\git\Log4Net_Practise\Log4Net_Practise\bin\Debug\netcoreapp3.1\Log4Net_Practise.pdb
+D:\R&D\Logging\git\Log4Net_Practise\Log4Net_Practise\obj\Debug\netcoreapp3.1\Log4Net_Practise.csproj.AssemblyReference.cache
+D:\R&D\Logging\git\Log4Net_Practise\Log4Net_Practise\obj\Debug\netcoreapp3.1\Log4Net_Practise.GeneratedMSBuildEditorConfig.editorconfig
+D:\R&D\Logging\git\Log4Net_Practise\Log4Net_Practise\obj\Debug\netcoreapp3.1\Log4Net_Practise.AssemblyInfoInputs.cache
+D:\R&D\Logging\git\Log4Net_Practise\Log4Net_Practise\obj\Debug\netcoreapp3.1\Log4Net_Practise.AssemblyInfo.cs
+D:\R&D\Logging\git\Log4Net_Practise\Log4Net_Practise\obj\Debug\netcoreapp3.1\Log4Net_Practise.csproj.CoreCompileInputs.cache
+D:\R&D\Logging\git\Log4Net_Practise\Log4Net_Practise\obj\Debug\netcoreapp3.1\Log4Net_Practise.dll
+D:\R&D\Logging\git\Log4Net_Practise\Log4Net_Practise\obj\Debug\netcoreapp3.1\Log4Net_Practise.pdb
+D:\R&D\Logging\git\Log4Net_Practise\Log4Net_Practise\obj\Debug\netcoreapp3.1\Log4Net_Practise.genruntimeconfig.cache
